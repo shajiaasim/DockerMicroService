@@ -18,3 +18,5 @@ more develop changes
 Another developer changes
 
 Remote changes from someone else
+
+Local changes
